@@ -1,1 +1,1 @@
-# 2020-bachelor-marsetti
+# 20xx-bachelor-template
